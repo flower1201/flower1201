@@ -9,8 +9,6 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/typing.svg" alt="status line" width="780" />
-  <br/>
   <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/terminal.svg" alt="PixelProof | RetryScope | RepoDiagram" width="780" />
 
   <h2>ZHou Yongjie <code>@flower1201</code></h2>
