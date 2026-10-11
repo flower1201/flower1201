@@ -42,10 +42,12 @@
 ## Contribution snake
 
 <div align="center">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/flower1201/flower1201/output/github-contribution-grid-snake.gif" width="100%" />
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flower1201/flower1201/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flower1201/flower1201/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/flower1201/flower1201/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake svg" src="https://raw.githubusercontent.com/flower1201/flower1201/main/dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
