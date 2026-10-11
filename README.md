@@ -5,7 +5,14 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/banner.jpg" alt="flower1201 - local-first tools for AI coding" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/banner.jpg" />
+    <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/hero-dynamic.gif" alt="flower1201 dynamic banner" width="100%" />
+  </picture>
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/hero-dynamic.svg" alt="flower1201 animated brand strip" width="100%" />
 
   <br/>
 
@@ -28,6 +35,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=flower1201&show_icons=true&include_all_commits=true&count_private=false&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=f59e0b&text_color=e7e5e4&bg_color=00000000" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flower1201&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=e7e5e4&bg_color=00000000" height="165" alt="top langs" />
 
+</div>
+
+---
+
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flower1201/flower1201/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flower1201/flower1201/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/flower1201/flower1201/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
