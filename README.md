@@ -5,11 +5,13 @@
 
 <div align="center">
 
-  <img src="./assets/banner.jpg" alt="flower1201 — local-first tools for AI coding" width="100%" />
+  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/banner.jpg" alt="flower1201 - local-first tools for AI coding" width="100%" />
 
   <br/>
 
-  <img src="./assets/typing.svg" alt="typing status" width="780" />
+  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/typing.svg" alt="status line" width="780" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/terminal.svg" alt="PixelProof | RetryScope | RepoDiagram" width="780" />
 
   <h2>ZHou Yongjie <code>@flower1201</code></h2>
 
@@ -34,7 +36,7 @@
 
 ## Featured open source
 
-<img src="./assets/projects.svg" alt="PixelProof · RetryScope · RepoDiagram" width="100%" />
+<img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/projects.svg" alt="PixelProof | RetryScope | RepoDiagram" width="100%" />
 
 <table>
   <tr>
