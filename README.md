@@ -12,10 +12,6 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/hero-dynamic.svg" alt="flower1201 animated brand strip" width="100%" />
-
-  <br/>
-
   <img src="https://raw.githubusercontent.com/flower1201/flower1201/main/assets/terminal.svg" alt="PixelProof | RetryScope | RepoDiagram" width="780" />
 
   <h2>ZHou Yongjie <code>@flower1201</code></h2>
