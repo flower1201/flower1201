@@ -4,18 +4,18 @@
   <circle cx="28" cy="32" r="6" fill="#14b8a6">
     <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+  <g font-family="Consolas, Menlo, monospace" font-size="17">
     <text x="48" y="38" fill="#f8fafc">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.33;1" dur="9s" repeatCount="indefinite"/>
       &gt; building local-first tools for AI coding
     </text>
     <text x="48" y="38" fill="#5eead4">
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" repeatCount="indefinite"/>
-      &gt; offline reports · no cloud · no API keys
+      &gt; offline reports | no cloud | no API keys
     </text>
     <text x="48" y="38" fill="#fbbf24">
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.69;0.96;0.99;1" dur="9s" repeatCount="indefinite"/>
-      &gt; PixelProof · RetryScope · RepoDiagram
+      &gt; PixelProof | RetryScope | RepoDiagram
     </text>
   </g>
   <rect x="742" y="18" width="9" height="26" rx="1" fill="#f59e0b">
